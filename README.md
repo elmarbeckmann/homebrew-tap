@@ -5,12 +5,12 @@ This is my Homebrew tap. It holds the formulae for my own tools.
 ## Install
 
 ```sh
-brew install elmarbeckmann/tap/btsleep
-brew services start btsleep
+brew install elmarbeckmann/tap/wakemeupbt
+brew services start wakemeupbt
 ```
 
 ## Formulae
 
 | Formula | Description |
 | --- | --- |
-| [btsleep](https://github.com/elmarbeckmann/btsleep) | Turn Bluetooth off while a Mac sleeps to stop DarkWake battery drain |
+| [wakemeupbt](https://github.com/elmarbeckmann/WakeMeUpBT) | Turn Bluetooth off while a Mac sleeps to stop DarkWake battery drain |
